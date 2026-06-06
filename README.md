@@ -52,9 +52,9 @@ Pruebas
 
 <img width="1087" height="231" alt="image" src="https://github.com/user-attachments/assets/8c3dd336-1525-4dae-b67d-375cd6f1f98a" />
 
-
-
-
+-
+-
+-
 
 CASOS DE ENTRADA Y SALIDA EN MENU PRINCIPAL
 
