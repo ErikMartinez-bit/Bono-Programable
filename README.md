@@ -54,11 +54,15 @@ Pruebas
 
 
 
+
+
 CASOS DE ENTRADA Y SALIDA EN MENU PRINCIPAL
 
 EJERCICIO 1  "MANZANA"
 
 <img width="780" height="437" alt="image" src="https://github.com/user-attachments/assets/aec73eab-4d0d-4ab2-b821-950d70fc69ed" />
+
+
 
 
 EJERCICIO 2   10 objetos distintos, 3 cajas con limite de 4 objetos y se permiten estar vacias
