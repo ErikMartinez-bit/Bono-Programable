@@ -23,6 +23,7 @@ La herramienta cubre cinco variantes para repartir n objetos en k cajas, dependi
 
 
 Estructura y Ejecución
+
 El código está escrito en Python 3.10 o superior y no necesita ninguna librería externa. El proyecto incluye dos archivos: conteo_combinatorio.py (para usar desde la terminal con un menú interactivo) y conteo_combinatorio.ipynb (por si necesita abrirlo y ejecutarlo en Google Colab).
 Al iniciar el programa (y al final del todo en las celdas del COLAB, vera un menú sencillo en la consola: HERRAMIENTA DE CONTEO COMBINATORIO
 1. Correr todas las pruebas automáticas
