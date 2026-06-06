@@ -5,7 +5,7 @@ Presentación de las dos calculadoras y menu principal para el bono
 
 Conteo Combinatorio
 
-Desarrolle dos herramientas generales en Python Collab que permiten resolver problemas de conteo a partir de los datos que ingrese el usuario, automatizando los cálculos para cualquier valor válido.
+Se trabajo en dos herramientas generales en Python Collab que permiten resolver problemas de conteo a partir de los datos que ingrese el usuario, automatizando los cálculos para cualquier valor válido.
 
 
 Problemas Resueltos
