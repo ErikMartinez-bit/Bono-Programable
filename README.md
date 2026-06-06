@@ -9,7 +9,8 @@ El programa calcula cuántas formas distintas existen para ordenar un conjunto d
 
 Distribución de Objetos en Cajas
 La herramienta cubre cinco variantes para repartir n objetos en k cajas, dependiendo de si los objetos son idénticos o distintos, y si se permiten o no las cajas vacías. También incluye el caso más complejo de distribución con límite de capacidad por caja usando el principio de Inclusión-Exclusión
-**Nota sobre los Números de Stirling:Para resolver correctamente el caso de objetos distintos sin cajas vacías, me topé con los Números de Stirling de segunda especie. Como no venían en el enunciado original ni los hemos visto con ese nombre en el curso, me pareció interesante investigar cómo funcionaban y programarlos**
+
+**Nota sobre los Números de Stirling porque para resolver correctamente el caso de objetos distintos sin cajas vacías, me topé con los Números de Stirling de segunda especie. Como no venían en el enunciado original ni los hemos visto con ese nombre en el curso, me pareció interesante investigar cómo funcionaban y trabajarlos**
 
 
 Estructura y Ejecución
