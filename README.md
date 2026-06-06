@@ -9,7 +9,6 @@ Desarrolle dos herramientas generales en Python Collab que permiten resolver pro
 Problemas Resueltos
 
 Coeficientes Multinomiales
-
 El programa calcula cuántas formas distintas existen para ordenar un conjunto de objetos con elementos repetidos. Funciona ingresando una palabra directamente (como BANANA) o una lista de frecuencias. Además, si la entrada es pequeña (hasta 8 caracteres), añadí una función para generar la lista completa de todas las palabras posibles.
 
 
