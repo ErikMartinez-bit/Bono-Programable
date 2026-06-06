@@ -1,6 +1,8 @@
 # Bono-Programable
 
 Presentación de las dos calculadoras y menu principal para el bono
+
+
 Conteo Combinatorio
 
 Desarrolle dos herramientas generales en Python Collab que permiten resolver problemas de conteo a partir de los datos que ingrese el usuario, automatizando los cálculos para cualquier valor válido.
@@ -25,7 +27,7 @@ La herramienta cubre cinco variantes para repartir n objetos en k cajas, dependi
 Estructura y Ejecución
 
 El código está escrito en Python y no necesita ninguna librería externa. El proyecto incluye dos archivos: conteo_combinatorio.py (para usar desde la terminal con un menú interactivo) y conteo_combinatorio.ipynb (por si necesita abrirlo y ejecutarlo en Google Colab).
-Al iniciar el programa (y al final del todo en las celdas del COLAB, vera un menú sencillo en la consola: HERRAMIENTA DE CONTEO COMBINATORIO
+Al abrir el archivo en COLAB se sugiere que se ejecuten una por una todas las celdas del codigo, no tanto por ejecucion sino por claridad del código (y al final del todo en las celdas del COLAB), vera un menú sencillo en la consola: HERRAMIENTA DE CONTEO COMBINATORIO
 1. Correr todas las pruebas automáticas
 2. Calculadora — Multinomial
 3. Calculadora — Distribución de objetos en cajas
@@ -49,4 +51,17 @@ Pruebas
 <img width="665" height="360" alt="image" src="https://github.com/user-attachments/assets/1b9f9127-c983-401c-9ffb-df7db5abac65" />
 
 <img width="1087" height="231" alt="image" src="https://github.com/user-attachments/assets/8c3dd336-1525-4dae-b67d-375cd6f1f98a" />
+
+
+
+CASOS DE ENTRADA Y SALIDA EN MENU PRINCIPAL
+
+EJERCICIO 1  "MANZANA"
+
+<img width="780" height="437" alt="image" src="https://github.com/user-attachments/assets/aec73eab-4d0d-4ab2-b821-950d70fc69ed" />
+
+
+EJERCICIO 2   10 objetos distintos, 3 cajas con limite de 4 objetos y se permiten estar vacias
+
+<img width="593" height="456" alt="image" src="https://github.com/user-attachments/assets/12facabf-21d2-4a4a-be84-0ddb30c6ab35" />
 
