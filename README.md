@@ -39,10 +39,13 @@ Archivo → Subir notebook → seleccionar conteo_combinatorio.ipynb
 Ejecutar las celdas en orden con Ctrl+F9, o celda por celda con Shift+Enter
 
 En Python local:
+
 bashpython conteo_combinatorio.py
 No requiere instalar librerías externas, solo Python 3.10 o superior.
 
+
 Pruebas
+
 <img width="665" height="360" alt="image" src="https://github.com/user-attachments/assets/1b9f9127-c983-401c-9ffb-df7db5abac65" />
 
 <img width="1087" height="231" alt="image" src="https://github.com/user-attachments/assets/8c3dd336-1525-4dae-b67d-375cd6f1f98a" />
